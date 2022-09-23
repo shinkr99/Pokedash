@@ -1,0 +1,3 @@
+# Pokedash
+
+# Projeto em construção 🚀
