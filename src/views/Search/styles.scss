@@ -1,0 +1,9 @@
+.pokemon {
+  & > h1 {
+    text-transform: capitalize;
+  }
+
+  & > img {
+    width: 200px;
+  }
+}
